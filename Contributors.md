@@ -862,6 +862,7 @@ https://github.com/1276604737-cloud
 - [SlakenKaken](https://github.com/SlakenKaken)
 - [imxde-code](https://github.com/imxde-code)
 - [Hello-Git]
+- [VJL-Git](https://github.com/vijayaomsai)
 - [I'm coming]
 - [vaibhav-gawade](https://github.com/vaibhav-gawade)
 - [Apeksha](https://github.com/Apeksha23-hub)
